@@ -161,6 +161,7 @@ textarea {
   position: relative;
   overflow: hidden;
   background: #222;
+  background: url("Wiki-background.jpg")
 }
 
 .help-link {
