@@ -65,6 +65,11 @@ body {
   font-size: 14px;
 }
 
+@font-face {
+    font-family: titleFont;
+    src: url(WHOOPASS.TTF);
+}
+
 /*
 
 .octicon is optimized for 16px.
@@ -200,6 +205,7 @@ h1 {
   -webkit-backface-visibility: hidden;
   max-width: 830px;
   margin-top: 50px;
+  font-family: titleFont;
 }
 
 .page #hero-spot img { margin-bottom: 25px; }
