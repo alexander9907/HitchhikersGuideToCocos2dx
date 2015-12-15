@@ -367,7 +367,7 @@ text-shadow: 2px 3px 0 #FDC902, /* Simulated effect for Firefox and Opera and ni
 }
 
 .tutorial-list .image-right {
-  padding-right: 440px;
+  /*padding-right: 440px;*/
 }
 
 .tutorial-list .image-right p {
