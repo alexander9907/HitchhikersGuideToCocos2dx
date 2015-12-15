@@ -206,6 +206,11 @@ h1 {
   max-width: 830px;
   margin-top: 50px;
   font-family: titleFont;
+
+  letter-spacing: 5px;
+-webkit-text-stroke: 1px #CD3401;
+color: #CD3401;
+text-shadow: 2px 3px 0 #FDC902, /* Simulated effect for Firefox and Opera and nice enhancement for WebKit */ -1px -1px 0 #FDC902, 1px -1px 0 #FDC902, -1px 1px 0 #FDC902, 1px 1px 0 #FDC902;
 }
 
 .page #hero-spot img { margin-bottom: 25px; }
